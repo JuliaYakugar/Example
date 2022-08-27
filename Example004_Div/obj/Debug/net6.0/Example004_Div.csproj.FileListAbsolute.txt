@@ -1,0 +1,15 @@
+D:\Umeteas\prog\12_C#\Example\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\Umeteas\prog\12_C#\Example\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\Umeteas\prog\12_C#\Example\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\Umeteas\prog\12_C#\Example\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\Umeteas\prog\12_C#\Example\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\Umeteas\prog\12_C#\Example\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
