@@ -1,0 +1,15 @@
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\refint\Example007_Magic.dll
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
+D:\Umeteas\prog\12_C#\Example\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
